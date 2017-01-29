@@ -22,7 +22,8 @@ analytics:
 author:
   name: Roberto Esquenazi
   email: robertoesquenazi@gmail.com
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb200653-fef3-4eed-ab97-482ff74803cd.png
 name: NIU PANAMA
 url: 'http://niupanama.com/'
 navigation:
@@ -86,4 +87,5 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: What's NIU? ™
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d7e9ef0-67e1-4d7e-ab6e-de7ced8d9216.png
