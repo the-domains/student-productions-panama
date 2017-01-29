@@ -35,7 +35,7 @@ navigation:
   - name: Contact Us
     id: 7d44aeed-b0be-4e36-aaf4-654d1944babb
     type: content
-title: NIU PANAMA
+title: NIU PRODUCTIONS
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
