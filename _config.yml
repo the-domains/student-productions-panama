@@ -1,0 +1,85 @@
+layout_spectrum: 0.9147344300402606
+typography_spectrum: 0.5580529314461211
+color:
+  brandStrength: 0.6533987507864943
+  lightness: 0.1863581122292925
+  saturation: 0.2990735315409775
+  rhythmicContrast: 0.9978981190408109
+  brandColors:
+    - '#2B2B2B'
+    - '#0DDBFF'
+    - '#70D50A'
+    - '#FFFFFF'
+    - '#808080'
+name: NIU Panama
+navigation:
+  - name: About Us
+    id: e49b3fe3-4d03-405c-bc44-1a5c94559923
+    type: content
+  - name: About the Team
+    id: d3b2d4aa-a6a0-49b0-a16b-82d6474daf2d
+    type: content
+title: NIU PANAMA
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/683eae99-7aac-4d03-8e0f-edad84a5bca3.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/683eae99-7aac-4d03-8e0f-edad84a5bca3.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/670d0d3d-ee3d-4e0e-9542-422cced19c2e.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/670d0d3d-ee3d-4e0e-9542-422cced19c2e.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: REDEFINING THEATRE
+author:
+  name: Roberto Esquenazi
+  email: robertoesquenazi@gmail.com
+logo: null
+url: 'http://niupanama.com/'
+opengraph:
+  type: ''
+analytics:
+  facebook: '256996934723442'
+  google: UA-90994675-1
+github: true
+content_rating:
+  adult: false
