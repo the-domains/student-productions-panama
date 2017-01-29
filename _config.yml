@@ -86,3 +86,5 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: REDEFINING THEATRE
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b22c38-028c-4093-b726-6179c7e284dc.png
