@@ -11,12 +11,12 @@ color:
     - '#70D50A'
     - '#FFFFFF'
     - '#808080'
-name: NIU Panama
+name: niupanama
 navigation:
   - name: About Us
     id: e49b3fe3-4d03-405c-bc44-1a5c94559923
     type: content
-  - name: About the Team
+  - name: The Board
     id: d3b2d4aa-a6a0-49b0-a16b-82d6474daf2d
     type: content
 title: NIU PANAMA
