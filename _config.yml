@@ -93,3 +93,6 @@ purpose:
   - type: external
     url: 'https://www.facebook.com/niuproductions/'
     label: Visit our Facebook Page
+  - type: contact
+    url: 'tel:+50761308800'
+    label: Call Now
