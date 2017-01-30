@@ -1,5 +1,6 @@
-layout_spectrum: 0.9187113867808908
 typography_spectrum: 0.6136702081976034
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5340873930844857
   lightness: 0.41525373280380323
@@ -11,11 +12,10 @@ color:
     - '#8FF5CE'
     - '#3AABB4'
     - '#54C3C6'
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
+layout_spectrum: 0.9187113867808908
 analytics:
   facebook: '256996934723442'
   google: UA-90994675-1
@@ -36,6 +36,11 @@ navigation:
   - name: Contact Us
     id: 7d44aeed-b0be-4e36-aaf4-654d1944babb
     type: content
+  - name: Upcoming Productions
+    url: 'https://www.facebook.com/pg/niuproductions/events/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f126bcb-23e9-4739-a194-1f410047e823.png
 title: NIU PRODUCTIONS
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -46,19 +51,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f5f23eb-53fe-48f9-a59d-8d0aaea65187.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -70,25 +75,23 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e8a0144-46b3-4f83-9e05-88a6e84e98d2.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: What's NIU? ™
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f126bcb-23e9-4739-a194-1f410047e823.png
 purpose:
   - type: external
     url: 'https://www.facebook.com/niuproductions/'
