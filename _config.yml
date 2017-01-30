@@ -89,3 +89,7 @@ content:
 description: What's NIU? ™
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f126bcb-23e9-4739-a194-1f410047e823.png
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/niuproductions/'
+    label: Visit our Facebook Page
