@@ -1,16 +1,16 @@
 ---
-inFeed: false
-description: ''
-dateModified: '2017-01-31T15:12:01.159Z'
-datePublished: '2017-01-31T15:12:24.249Z'
-title: Contact Us
-author: []
 publisher: {}
+datePublished: '2017-01-31T16:45:29.266Z'
+dateModified: '2017-01-31T16:45:28.917Z'
+description: ''
 via: {}
-hasPage: true
 sourcePath: _posts/2017-01-29-contact-us.md
+title: Contact Us
+hasPage: true
+inFeed: false
+author: []
 starred: false
-datePublishedOriginal: '2017-01-31T15:12:24.249Z'
+datePublishedOriginal: '2017-01-31T15:27:46.256Z'
 url: contact-us/index.html
 _type: Blurb
 
