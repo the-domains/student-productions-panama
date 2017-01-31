@@ -26,6 +26,10 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/189b9fce-de58-4a9e-95e3-c127500bfec3.png
 name: NIU PRODUCTIONS
 url: 'http://niupanama.com/'
+navigation:
+  - name: About Us
+    id: e49b3fe3-4d03-405c-bc44-1a5c94559923
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f126bcb-23e9-4739-a194-1f410047e823.png
 title: NIU PRODUCTIONS
