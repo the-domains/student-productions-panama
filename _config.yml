@@ -1,5 +1,6 @@
-layout_spectrum: 0.901506259581904
 typography_spectrum: 0.14326553236988218
+content_rating:
+  adult: false
 color:
   brandStrength: 0.6651273037126233
   lightness: 0.062070949465903164
@@ -11,13 +12,10 @@ color:
     - '#8FF5CE'
     - '#3AABB4'
     - '#54C3C6'
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
+layout_spectrum: 0.901506259581904
 analytics:
   facebook: '256996934723442'
   google: UA-90994675-1
@@ -37,6 +35,9 @@ navigation:
     type: content
   - name: Contact Us
     id: ad24b86e-ed64-4120-b331-c7615aee029d
+    type: content
+  - name: Upcoming Productions
+    id: 9d6ca4bb-2090-40de-9da8-3c6f3491d987
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f126bcb-23e9-4739-a194-1f410047e823.png
@@ -90,6 +91,8 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: What's NIU? ™
 purpose:
   - type: external
