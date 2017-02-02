@@ -38,9 +38,6 @@ navigation:
   - name: Contact Us
     id: ad24b86e-ed64-4120-b331-c7615aee029d
     type: content
-  - name: Upcoming Productions
-    url: 'https://www.facebook.com/pg/niuproductions/events/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f126bcb-23e9-4739-a194-1f410047e823.png
 title: NIU PRODUCTIONS
