@@ -35,12 +35,12 @@ navigation:
   - name: The Board
     id: d3b2d4aa-a6a0-49b0-a16b-82d6474daf2d
     type: content
-  - name: Contact Us
-    id: ad24b86e-ed64-4120-b331-c7615aee029d
-    type: content
   - name: Upcoming Productions
     url: 'http://www.facebook.com/pg/niuproductions/events/'
     type: external
+  - name: Contact Us
+    id: ad24b86e-ed64-4120-b331-c7615aee029d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f126bcb-23e9-4739-a194-1f410047e823.png
 title: NIU PRODUCTIONS
