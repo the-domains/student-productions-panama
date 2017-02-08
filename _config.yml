@@ -1,21 +1,23 @@
-typography_spectrum: 0.14326553236988218
-content_rating:
-  adult: false
+layout_spectrum: 0.907051191772196
+typography_spectrum: 0.24737982535144626
 color:
-  brandStrength: 0.6651273037126233
-  lightness: 0.062070949465903164
-  saturation: 0.020417772290933105
-  rhythmicContrast: 0.6901977547786502
+  brandStrength: 0.6650580803613815
+  lightness: 0.06243643633929072
+  saturation: 0.023480871733609993
+  rhythmicContrast: 0.6988661710159981
   brandColors:
     - '#6EDBD8'
     - '#2294A4'
     - '#8FF5CE'
     - '#3AABB4'
     - '#54C3C6'
+coverPrefs:
+  filter: false
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: ''
-layout_spectrum: 0.901506259581904
 analytics:
   facebook: '256996934723442'
   google: UA-90994675-1
@@ -91,8 +93,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
 description: What's NIU? ™
 purpose:
   - type: external
