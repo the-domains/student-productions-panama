@@ -10,10 +10,10 @@ keywords: []
 description: ''
 app_links: []
 title: Contact Us
-datePublished: '2017-02-02T19:34:54.562Z'
-dateModified: '2017-02-02T19:34:20.387Z'
+datePublished: '2017-02-11T16:29:05.300Z'
+dateModified: '2017-02-11T16:29:04.978Z'
 via: {}
-inFeed: false
+inFeed: true
 sourcePath: _posts/2017-01-31-contact-us.md
 hasPage: true
 starred: false
