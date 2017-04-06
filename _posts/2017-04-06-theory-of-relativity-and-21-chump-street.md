@@ -1,18 +1,18 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2017-04-06T15:17:27.208Z'
-datePublished: '2017-04-06T15:17:28.840Z'
+dateModified: '2017-04-06T15:19:24.983Z'
+datePublished: '2017-04-06T15:19:25.793Z'
 title: Theory of Relativity and 21 Chump Street
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-06-theory-of-relativity-and-21-chump-street.md
 starred: false
 datePublishedOriginal: '2017-04-06T15:17:28.840Z'
-sourcePath: _posts/2017-04-06-theory-of-relativity-and-21-chump-street.md
 url: theory-of-relativity-and-21-chump-street/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/952ce6bb-ce52-4bd8-83fc-200710d7b2ad.png)
