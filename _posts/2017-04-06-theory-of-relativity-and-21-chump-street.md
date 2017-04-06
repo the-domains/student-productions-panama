@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-06T15:26:45.917Z'
-datePublished: '2017-04-06T15:26:46.805Z'
+dateModified: '2017-04-06T15:27:13.810Z'
+datePublished: '2017-04-06T15:27:14.666Z'
 title: Theory of Relativity and 21 Chump Street
 author: []
 publisher: {}
@@ -35,7 +35,7 @@ Executive Producer: TITO VALLARINO
 
 Production Company: NIU PANAMA
 
-We are looking for young performers from the ages 13+ that can sing and act.
+We are looking for young performers from the ages 13+ that can sing and act comfortably in english.
 
 Rehearsals will start late April and everyone who auditions must be available to rehearse May, June, July and early August.
 
