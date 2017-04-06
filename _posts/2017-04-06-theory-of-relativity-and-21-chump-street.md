@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-06T15:22:09.373Z'
-datePublished: '2017-04-06T15:22:10.325Z'
+dateModified: '2017-04-06T15:24:11.012Z'
+datePublished: '2017-04-06T15:24:11.762Z'
 title: Theory of Relativity and 21 Chump Street
 author: []
 publisher: {}
@@ -20,6 +20,8 @@ _type: Article
 # Theory of Relativity and 21 Chump Street
 
 ---
+
+### ABOUT THE PRODUCTION
 
 TEATRO LA PLAZA
 
@@ -40,6 +42,8 @@ Rehearsals will start late April and everyone who auditions must be available to
 If you have any questions you can email us at:
 
 info@niupanama.com
+
+### ABOUT AUDITIONS
 
 These auditions will be for consideration to perform in both Theory of Relativity and 21 Chump Street.
 
