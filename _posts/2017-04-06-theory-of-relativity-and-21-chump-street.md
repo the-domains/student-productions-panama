@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-06T15:24:11.012Z'
-datePublished: '2017-04-06T15:24:11.762Z'
+dateModified: '2017-04-06T15:26:45.917Z'
+datePublished: '2017-04-06T15:26:46.805Z'
 title: Theory of Relativity and 21 Chump Street
 author: []
 publisher: {}
@@ -23,9 +23,9 @@ _type: Article
 
 ### ABOUT THE PRODUCTION
 
-TEATRO LA PLAZA
+Where: TEATRO LA PLAZA
 
-August 2, 3, 4, 5, & 6, 2017
+When: August 2, 3, 4, 5, & 6, 2017
 
 Artistic Directors: GISELA RODRIGUEZ & ROBERTO ESQUENAZI
 
