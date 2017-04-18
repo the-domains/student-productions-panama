@@ -26,7 +26,7 @@ author:
   email: robertoesquenazi@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/189b9fce-de58-4a9e-95e3-c127500bfec3.png
-name: NIU PRODUCTIONS
+name: NIU PANAMA
 url: 'http://niupanama.com/'
 navigation:
   - name: About Us
@@ -39,7 +39,7 @@ navigation:
     id: ad24b86e-ed64-4120-b331-c7615aee029d
     type: content
   - name: Upcoming Productions
-    url: 'http://www.facebook.com/pg/niuproductions/events/'
+    url: 'https://www.facebook.com/pg/niupanama/events/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f126bcb-23e9-4739-a194-1f410047e823.png
